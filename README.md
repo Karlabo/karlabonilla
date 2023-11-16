@@ -13,7 +13,7 @@
    ![Picture1](https://github.com/Karlabo/kbom/assets/87454037/036de02d-ca64-4183-aa23-bc7e9b96188e)
    <br> </br>
    
-**¿Qué existe que es similar a la propuesta?
+**¿Qué existe que es similar a la propuesta?**
   |Antecedente | Aspectos positivos |Aspectos negativos|
   | -------------- | --------------- | --------------- |
   |https://www.oficina3.cl|es facil identificar los servicios ofrecidos por la empresa, y cuales han sido los proyectos en que se ha trabajado | da mucha prioridad al al logo, utilizando un banner que acapara la totalidad de la primera vista|
