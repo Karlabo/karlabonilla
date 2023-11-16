@@ -10,7 +10,8 @@
     |Usuario extremo| Empresas y organizaciones en busqueda de nuevas ideas y talentos para sumar a su aquipo de trabajo|
     |Usuario extremo | Estudiantes de diseño o de carreras a fines que busquen inspiración y referencias de diseño
     |Usuario probable| Diseñadores en busqueda de nuevos talentos o que necesiten apoyo en la creación de lineamientos graficos y visuales|
-   [](https://github.com/Karlabo/kbom/blob/main/assets/images/Picture1.png)
+   
+   [Picture 1](https://github.com/Karlabo/kbom/blob/main/assets/images/Picture1.png)
    <br> </br>
    
 * ¿Qué existe que es similar a la propuesta?
