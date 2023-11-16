@@ -51,4 +51,5 @@
 
 <br></br>
 **¿Qué existe que puede inspirar la propuesta?**
+- MOODBOARD
 ![img8](https://github.com/Karlabo/kbom/assets/87454037/c5b1f67b-a5e9-425b-9d9a-5ff44b61333b)
