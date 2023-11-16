@@ -3,7 +3,7 @@
  - Dar a conocer mis trabajos de diseño realizados durante la carrera, practica profesional y de forma autonoma. Enfocados en el diseño grafico e ilustración
 
 **¿Para quiénes es esta propuesta?**
- - Esta propuesta esta dirigida a los siguientes usuarios
+ - Esta propuesta esta dirigida a los siguientes usuarios:
     |USUARIO | DESCRIPCIÓN |
     | --------------- | --------------- |
     |Usuario extremo| Estudiantes de diseño o de carreras a fines que busquen inspiración y referencias de diseño |
@@ -12,14 +12,31 @@
    
    ![Picture1](https://github.com/Karlabo/kbom/assets/87454037/036de02d-ca64-4183-aa23-bc7e9b96188e)
    <br> </br>
+   
 * ¿Qué existe que es similar a la propuesta?
   |Antecedentes | Aspectos positivos |Aspectos negativos|
   | --------------- | --------------- | --------------- |
   |https://www.oficina3.cl|es facil identificar los servicios ofrecidos por la empresa, y cuales han sido los proyectos en que se ha trabajado | da mucha prioridad al al logo, utilizando un banner que acapara la totalidad de la primera vista|
+  (https://github.com/Karlabo/kbom/issues/8#issue-1996035451)
+
+  |Antecedentes | Aspectos positivos |Aspectos negativos|
+  | --------------- | --------------- | --------------- |
   |https://brainbow.cl/| la imagen principal es dinamica y logra capturar rapidamente la atención del visitante, la información esta bien organizada y es breve| se pierde la legibilidad en algunas partes de la pagina, al utilizar tipografia negra sobre zonas de una imagen del mismo color|
-  |https://www.webfriends.cl| tiene un menu simple, de facil lectura y los colores no se saturan y |hay mucho dinamismo al navegar en la pagina web, lo que llega a marear en ocaciones |
+
+  |Antecedentes | Aspectos positivos |Aspectos negativos|
+  | --------------- | --------------- | --------------- |
+  |https://www.studioheed.com/| De estetica simple y minimalista que prioriza la vizualización de los poyectos| En ocasiones la animación tipo carrusel tiene cambios muy bruscos lo que llega a marear|
+
+  |Antecedentes | Aspectos positivos |Aspectos negativos|
+  | --------------- | --------------- | --------------- |
   |https://chainzoku.io|la transición dentro de la pagina es armonica y esta bien unificada| la pagina es muy larga (verticalmente) y puede desorientar a la hora de buscar información, podria aprovecharse más con secciones horizontales|
+
+  |Antecedentes | Aspectos positivos |Aspectos negativos|
+  | --------------- | --------------- | --------------- |
   |https://tamagui.dev/?ref=landings.dev|utiliza una paleta de colores dinamica que resulta llamativa y envolvente|esta un poco saturada al no estar seccionada la pagina principal|
+
+  |Antecedentes | Aspectos positivos |Aspectos negativos|
+  | --------------- | --------------- | --------------- |
   |https://tilda.cc|utiliza elementos ilustrados que se complementan con un esilo simple y atractivo|la pagina principal tiene mucho contenido ordenado verticalmente|
 
 <br></br>
