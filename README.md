@@ -12,9 +12,7 @@
     |Usuario probable| Diseñadores en busqueda de nuevos talentos o que necesiten apoyo en la creación de lineamientos graficos y visuales |
    
    ![Picture1](https://github.com/Karlabo/kbom/assets/87454037/036de02d-ca64-4183-aa23-bc7e9b96188e)
-
    <br> </br>
-   
 * ¿Qué existe que es similar a la propuesta?
   |Antecedentes | Aspectos positivos |Aspectos negativos|
   | --------------- | --------------- | --------------- |
