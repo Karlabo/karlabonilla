@@ -7,9 +7,9 @@
  * Esta propuesta esta dirigida a los siguientes usuarios
     |USUARIO | DESCRIPCIÓN |
     | --------------- | --------------- |
-    |Usuario extremo| Empresas y organizaciones en busqueda de nuevas ideas y talentos para sumar a su aquipo de trabajo|
-    |Usuario extremo | Estudiantes de diseño o de carreras a fines que busquen inspiración y referencias de diseño
-    |Usuario probable| Diseñadores en busqueda de nuevos talentos o que necesiten apoyo en la creación de lineamientos graficos y visuales|
+    |Usuario extremo| Estudiantes de diseño o de carreras a fines que busquen inspiración y referencias de diseño |
+    |Usuario extremo | Empresas y organizaciones en busqueda de nuevas ideas y talentos para sumar a su aquipo de trabajo |
+    |Usuario probable| Diseñadores en busqueda de nuevos talentos o que necesiten apoyo en la creación de lineamientos graficos y visuales |
    
    ![Picture1](https://github.com/Karlabo/kbom/assets/87454037/036de02d-ca64-4183-aa23-bc7e9b96188e)
 
