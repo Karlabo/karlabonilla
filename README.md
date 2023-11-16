@@ -3,7 +3,7 @@
  * Dar a conocer mis trabajos de diseño realizados durante la carrera, practica profesional y de forma autonoma. Enfocados en el diseño grafico e ilustración
 
 <br> </br>
-**¿Para quiénes es esta propuesta?**
+2. **¿Para quiénes es esta propuesta?**
  * Esta propuesta esta dirigida a los siguientes usuarios
     |USUARIO | DESCRIPCIÓN |
     | --------------- | --------------- |
