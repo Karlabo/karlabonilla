@@ -169,21 +169,21 @@ width: 100vw;
   text-align: center;
   margin-top: 20px;
 
-
-
 }
 .card {
   width: 300px;
   background-color: #02051F;
   margin: 1em;
   font-size: 15px;
-  color: white;
+  color: aqua;
 }
 
-.button-content {
-  display: flex;
-  justify-content: center;
-  margin: 1em;
+.card p{
+color: white;
+}
+
+#losTrabajos{
+  color: aqua;
 }
 
 #losContactos{
@@ -222,8 +222,8 @@ width: 100vw;
   color: aqua;
  }
   
-
-
+  color: white;
+}
 
 .final {
   display: flex;
