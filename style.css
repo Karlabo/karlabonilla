@@ -215,28 +215,17 @@ color: white;
   background-color: #191c32;
   color: white;
   height: 120px;
-  padding: 15px;
+  padding: 5px;
 }
 
  .card2 a{
   color: aqua;
  }
   
-  color: white;
-}
-
-.final {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
-  height: 100px;
-  padding: 2em;
+footer{
   background-color: #02051F;
 }
 .final a{
-  font-weight: bolder;
   color: aqua;
 }
 
