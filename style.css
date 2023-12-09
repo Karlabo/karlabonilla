@@ -34,7 +34,7 @@ body {
   padding: 10px 20px; 
 }
 .menu li:hover a{
-  background-color: aqua;
+  background-color: #20D4D7;
   color: #191c32;
 }
 .menu li a:hover {
