@@ -93,8 +93,8 @@ width: 100%;
   width: 100%;
   grid-column: 1/5;
   padding: 1px;
-  margin-top: 5px;
-  margin-left: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
   background: cyan;
 }
 .about-info {
