@@ -38,7 +38,7 @@ body {
   color: #191c32;
 }
 .menu li a:hover {
-  color: #66E7C8;
+  color: aqua;
 }
 .main {
   margin: 0 auto;
@@ -55,11 +55,11 @@ h1 {
   font-weight: bolder;
 }
 .info-content span {
-  color: #29CDCD;
+  color: aqua;
 }
 .download-cv {
   padding: 10px 20px;
-  background-color: #29CDCD;
+  background-color: aqua;
   border: none;
   border-radius: 20px;
   margin-top: 10px;
