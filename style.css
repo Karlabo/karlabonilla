@@ -8,7 +8,6 @@ body {
   height: 80vh;
   background-color: #191c32;
   color: #fff;
-  align-items: center;
 }
 .navbar {
   display: flex;
